@@ -1,0 +1,7 @@
+node_modules/
+auth_info/
+*.was
+*.zip
+.codex
+*:Zone.Identifier
+.lottie-whatsapp.json
